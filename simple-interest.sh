@@ -1,6 +1,6 @@
 #!bin/bash
 #This script calculates simple interest given principal,
-#annual rate of interest and time period in years.
+#annual rate of interest and time period in years version 2.0
 
 #Do not use this production. Sample purpose only.
 
